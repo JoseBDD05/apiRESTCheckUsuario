@@ -1,4 +1,4 @@
-# apiRESTCheckBd
+# apiRESTCheckUsuario
 ## José Antonio Fuentes Ramírez
 ## 19 de marzo de 2025
 Este es la primera versión del proyecto.
